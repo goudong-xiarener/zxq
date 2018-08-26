@@ -1,2 +1,2 @@
 # zxq
-这是一个试验品
+this is a symbol
